@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Joshua, a software engineer based in Florida.\
 \
-I design and build applications that I find practical\
+I design and build applications that I find interesting\
 \
 My main tech stack is react, typescript, and tailwind.
 
